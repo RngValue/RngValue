@@ -1,4 +1,4 @@
-### Hi there 👋, Hey there, I'm Value
+### Hey there, I'm Value
 ##### I am a 16 year old, who does programming as a hobby.
 ![I am a 16 year old, who does programming as a hobby.](https://github.com/RngValue/RngValue/blob/main/githubpic1.png)
 
