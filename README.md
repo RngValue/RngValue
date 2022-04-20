@@ -11,7 +11,7 @@ Wait, this section is called "What's up with me"? Well... I'm ok, I guess
 ## My work:
 Of course, here's my work: [Itch](https://randomvalue134.itch.io/) and [Gamejolt](https://gamejolt.com/@randomizeit)
 
-Why is it all games? What is the point of making them, if noone's gonna play them? What's the meaning of life?
+Why is it all games? What is the point of making them, if noone's gonna play them? What is the meaning of life?
 
 To all of that I say: idk bro
 
