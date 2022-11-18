@@ -9,7 +9,7 @@ I use C# and Python. However, for game development I use Godot and Gamemaker Stu
 Wait, this section is called "What's up with me"? Well... I'm ok, I guess
 
 ## My work:
-Of course, here's my work: [Itch](https://randomvalue134.itch.io/) and [Gamejolt](https://gamejolt.com/@rngvalue)
+Of course, here's my work: [Newgrounds](https://value134.newgrounds.com/), [Itch](https://randomvalue134.itch.io/) and [Gamejolt](https://gamejolt.com/@rngvalue)
 
 Why is it all games? What is the point of making them, if noone's gonna play them? What is the meaning of life?
 
@@ -20,5 +20,6 @@ To all of that I say: idk bro
 - [Twitter](https://twitter.com/Value134)
 - [Reddit](https://www.reddit.com/user/RandomValue134)
 - [Youtube](https://www.youtube.com/channel/UCpWUOlIrhuB2mjwvfXLCNQg)
+- [Tumblr](https://rngvalue.tumblr.com/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RngValue&show_icons=true) 
