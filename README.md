@@ -15,8 +15,7 @@ For game development I use Godot and Gamemaker Studio.
 ## My socials:
 
 - [Twitter](https://twitter.com/Value134)
-- [Reddit](https://www.reddit.com/user/RandomValue134)
-- [Youtube](https://www.youtube.com/channel/UCpWUOlIrhuB2mjwvfXLCNQg)
+- [Youtube](https://www.youtube.com/channel/UCL34Zh7mFdQ5PKmeF_DI5Bg)
 - [Tumblr](https://rngvalue.tumblr.com/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RngValue&show_icons=true) 
