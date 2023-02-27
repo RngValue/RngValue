@@ -1,19 +1,16 @@
-## Hey there, I'm Value.
-A 16 year old, who does programming as a hobby... atleast until I'm done with school, which is when it hopefully becomes my job.
+## Hey there, I'm RngValue. 
+A 17 year old, who does programming as a hobby and hopefully will job in the future.
 
-![I am a 16 year old, who does programming as a hobby.](https://github.com/RngValue/RngValue/blob/main/githubpic1.png)
+![I am a 17 year old, who does programming as a hobby.](https://github.com/RngValue/RngValue/blob/main/githubpic1.png)
 
-## What's up with me:
-I use C# and Python. However, for game development I use Godot and Gamemaker Studio.
+## What tools do I use:
+I mostly use vscode, but if I need to make quick changes, I use notepad++.
 
-Wait, this section is called "What's up with me"? Well... I'm ok, I guess
+I mainly use C# and Python, but am also familiar with javascript, c++ and ruby.
+For game development I use Godot and Gamemaker Studio.
 
 ## My work:
-Of course, here's my work: [Newgrounds](https://value134.newgrounds.com/), [Itch](https://randomvalue134.itch.io/) and [Gamejolt](https://gamejolt.com/@rngvalue)
-
-Why is it all games? What is the point of making them, if noone's gonna play them? What is the meaning of life?
-
-To all of that I say: idk bro
+[Newgrounds](https://value134.newgrounds.com/), [Itch](https://randomvalue134.itch.io/) and [Gamejolt](https://gamejolt.com/@rngvalue)
 
 ## My socials:
 
