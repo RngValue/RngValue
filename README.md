@@ -6,7 +6,7 @@ A 17 year old, who does programming as a hobby and hopefully will become my job 
 ## What tools do I use:
 I mostly use vscode, but if I need to make quick changes, I use notepad++.
 
-I mainly use C#, Javascript and Python, but am also familiar with C++ and ruby.
+I mainly use C#, Javascript and Python, but am also familiar with C++ and Ruby.
 For game development I use Godot and Gamemaker Studio.
 
 ## My work:
