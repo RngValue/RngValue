@@ -7,7 +7,7 @@ A 17 year old bitchless lad with a terrible sense of humour.
 I mostly use Vscode, but if I need to make quick changes, I use Notepad++.
 
 I mainly use C#, Javascript and Python, but am also familiar with C++ and Ruby.
-For game development I use Godot, Gamemaker: Studio and RpgMaker (2003 and).
+For game development I use Godot, Gamemaker: Studio and RpgMaker (2003 and vx).
 
 ## My work:
 [Newgrounds](https://value134.newgrounds.com/), [Itch](https://randomvalue134.itch.io/) and [Gamejolt](https://gamejolt.com/@rngvalue)
