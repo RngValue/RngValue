@@ -1,5 +1,5 @@
 ## Hey there, I'm RngValue. 
-A 17 year old, who does programming as a hobby and hopefully will become my job in the future.
+A 17 year old bitchless lad with a terrible sense of humour.
 
 ![I am a 17 year old, who does programming as a hobby.](https://github.com/RngValue/RngValue/blob/main/githubpic1.png)
 
