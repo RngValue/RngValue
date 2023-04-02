@@ -1,7 +1,7 @@
 ## Hey there, I'm RngValue. 
 A 17 year old bitchless lad with a terrible sense of humour.
 
-![I am a 17 year old, who does programming as a hobby.](https://github.com/RngValue/RngValue/blob/main/githubpic1.png)
+![I am a 17 year old, who does programming as a hobby.](https://github.com/RngValue/RngValue/blob/main/toppat177.png)
 
 ## What tools do I use:
 I mostly use Vscode, but if I need to make quick changes, I use Notepad++.
