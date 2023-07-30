@@ -14,8 +14,7 @@ For game development I use Godot, Gamemaker: Studio and RpgMaker (2003 and VX Ac
 
 ## My socials:
 
-- [Twitter](https://twitter.com/Value134)
-- [Youtube](https://www.youtube.com/channel/UCL34Zh7mFdQ5PKmeF_DI5Bg)
+- [The Fucking Letter X](https://twitter.com/Value134)
 - [Tumblr](https://rngvalue.tumblr.com/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RngValue&show_icons=true) 
