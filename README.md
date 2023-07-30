@@ -7,8 +7,7 @@
 
 <h2>My work:</h2>
 <p> <a href="https://value134.newgrounds.com/">Newgrounds</a>; <a href="https://randomvalue134.itch.io/">Itch.io</a>; <a href="https://gamejolt.com/@rngvalue">Gamejolt</a> </p>
-
-## My socials:
+<h2>My socials:</h2>
 - [The Letter X](https://twitter.com/Value134)
 - [Tumblr](https://rngvalue.tumblr.com/)
 
