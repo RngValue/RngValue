@@ -4,17 +4,27 @@ A 17 year old bitchless lad with a terrible sense of humour.
 ![I am a 17 year old, who does programming as a hobby.](https://github.com/RngValue/RngValue/blob/main/toppat177.png)
 
 ## What tools do I use:
-I mostly use Vscode, but if I need to make quick changes, I use Notepad++.
+I mostly use Vscode, but if I need to make quick changes, I use good old Notepad++.
 
-I mainly use C#, Javascript and Python, but am also familiar with C++ and Ruby.
-For game development I use Godot, Gamemaker: Studio and RpgMaker (2003 and VX Ace).
+I am most familiar with these programming languages:
+- C++
+- C
+- Python
+- C#
+- Ruby
+
+My main game engines/frameworks of choice are:
+- Godot
+- Raylib
+- Renpy
+- Rpg maker
 
 ## My work:
 [Newgrounds](https://value134.newgrounds.com/), [Itch](https://randomvalue134.itch.io/) and [Gamejolt](https://gamejolt.com/@rngvalue)
 
 ## My socials:
 
-- [The Fucking Letter X](https://twitter.com/Value134)
+- [The Letter X](https://twitter.com/Value134)
 - [Tumblr](https://rngvalue.tumblr.com/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RngValue&show_icons=true) 
