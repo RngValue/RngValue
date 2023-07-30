@@ -1,7 +1,7 @@
 ## Hey there, I'm RngValue. 
 A 17 year old bitchless lad with a terrible sense of humour.
 
-![I am a 17 year old, who does programming as a hobby.](https://github.com/RngValue/RngValue/blob/main/fabric of reality.png)
+![How to break the fabric of reality, time and space. R V A L.](https://github.com/RngValue/RngValue/blob/main/fabricofreality.png)
 
 ## What tools do I use:
 I mostly use Vscode, but if I need to make quick changes, I use good old Notepad++.
