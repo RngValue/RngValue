@@ -9,4 +9,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RngValue&show_icons=true)
 
-<pre><code>:wq</code></pre>
+<pre><code>:q!</code></pre>
