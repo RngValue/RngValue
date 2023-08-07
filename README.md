@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm RngValue.</h1> 
+<h1 align="center">Hey there, I'm RngValue.</h1>
 <p align="center">A proud 17 year old Java hater!</p>
 <p align="center"> <img src="https://github.com/RngValue/RngValue/blob/main/fabricofrealityhq.png"> </p>
 
