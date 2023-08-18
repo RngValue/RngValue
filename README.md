@@ -1,32 +1,3 @@
-<h2>Pinned repositories:</h2>
-<div align="center">
-  <table>
-    <thead>
-          <tr>
-              <th align="center">Name</th>
-              <th align="left">Description</th>
-          </tr>
-      </thead>
-      <tbody>
-          <tr>
-              <td align="center"><a href="https://github.com/RngValue/CeilingPL">CeilingPL</a></td>
-              <td align="left">Ceiling is a simple and easy to use compiled programming language written in C++.</td>
-          </tr>
-      </tbody>
-      <tbody>
-          <tr>
-              <td align="center"><a href="https://github.com/RngValue/PersonalWebsite">PersonalWebsite</a></td>
-              <td align="left">The sourcecode of a website am working on</td>
-          </tr>
-      </tbody>
-      <tbody>
-          <tr>
-              <td align="center"><a href="https://github.com/RngValue/TheRecycleBin">TheRecycleBin</a></td>
-              <td align="left">This github repo is for my really small coding projects in whatever languages.</td>
-          </tr>
-      </tbody>
-  </table>
-</div>
 <h1 align="center">Hey there, I'm The CodMan (RngValue)</h1>
 <p align="center">A proud 17 year old Java hater!</p>
 <p align="center"> <img src="https://github.com/RngValue/RngValue/blob/main/fabricofrealityhq.png"> </p>
