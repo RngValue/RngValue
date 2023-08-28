@@ -7,6 +7,6 @@
 <h2>I'm on:</h2>
 <p> <a href="https://twitter.com/Value134">The Letter X</a>; <a href="https://cursedcodman.tumblr.com/">Tumblr</a>; <a href="https://value134.newgrounds.com/">Newgrounds</a>; <a href="https://randomvalue134.itch.io/">Itch.io</a>; <a href="https://gamejolt.com/@rngvalue">Gamejolt</a> </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RngValue)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RngValue) ![GitHub Streak](https://streak-stats.demolab.com/?user=RngValue)
 
 <pre><code>:q!</code></pre>
