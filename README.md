@@ -7,7 +7,3 @@
 <h2 align=center>You can also find me on:</h2>
 <p align=center> <a href="https://twitter.com/Value134">The Letter X</a>; <a href="https://cursedcodman.tumblr.com/">Tumblr</a>; <a href="https://value134.newgrounds.com/">Newgrounds</a>; <a href="https://randomvalue134.itch.io/">Itch.io</a>; <a href="https://gamejolt.com/@rngvalue">Gamejolt</a> </p>
 <pre><code>:q!</code></pre>
-
-test pls ignore
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/vmfunc/vmfunc/blob/main/ransom.png?raw=true');]{x0000}$}
