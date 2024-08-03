@@ -8,4 +8,4 @@
 <p align=center> <a href="https://twitter.com/Value134">The Letter X</a>; <a href="https://cursedcodman.tumblr.com/">Tumblr</a>; <a href="https://value134.newgrounds.com/">Newgrounds</a>; <a href="https://randomvalue134.itch.io/">Itch.io</a>; <a href="https://gamejolt.com/@rngvalue">Gamejolt</a> </p>
 <pre><code>:q!</code></pre>
 
-<script>console.log("test")</script>
+<body><script>console.log("test")</script></body>
