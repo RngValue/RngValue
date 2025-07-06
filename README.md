@@ -20,7 +20,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
     </a>
     <a href="https://www.lua.org/">
-        <img src="https://wikimedi.ca/images/thumb/6/6a/Lua-logo-nolabel.svg/600px-Lua-logo-nolabel.svg.png" alt="lua" width="40" height="40">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40">
     </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
