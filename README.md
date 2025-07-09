@@ -34,4 +34,4 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
     </a>
 </p>
-<p align=center><sub>blame <a href="https://www.tumblr.com/tv-head-static">@tv-head-static</a> for all the codmen.</sub></p>
+<p align=center><sub>blame <a href="https://www.tumblr.com/tv-head-static">@tv-head-static</a> for all the codmen</sub></p>
